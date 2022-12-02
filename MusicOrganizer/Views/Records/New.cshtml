@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Music Organizer</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+
+<body>
+    @{
+       Layout = "_Layout";
+    }
+    
+    <h1>Add a new Record to @Model.Name</h1>
+
+    <form action="/artists/@Model.Id/records" method="post">
+        <input id="artistId" name="artistId" type="hidden" value="@Model.Id">
+        <label for="recordTitle">Title of Record</label>
+        <input id="recordTitle" name="recordTitle" type="text">
+        <button type='submit'>Add Item</button>
+    </form>
+
+</body>
+
+</html>

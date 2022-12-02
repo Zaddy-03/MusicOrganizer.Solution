@@ -1,0 +1,76 @@
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.exe
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.deps.json
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.runtimeconfig.json
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.runtimeconfig.dev.json
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.dll
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\ref\MusicOrganizer.dll
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.pdb
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.Views.dll
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.Views.pdb
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.AssemblyInfo.cs
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\staticwebassets\MusicOrganizer.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\staticwebassets\MusicOrganizer.StaticWebAssets.xml
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\scopedcss\bundle\MusicOrganizer.styles.css
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.TagHelpers.input.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.TagHelpers.output.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Records\Index.cshtml.g.cs
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Records\New.cshtml.g.cs
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Records\Show.cshtml.g.cs
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.Views.pdb
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.dll
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\ref\MusicOrganizer.dll
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.pdb
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.genruntimeconfig.cache
+C:\Users\HP\Desktop\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.csproj.CopyComplete
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.exe
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.deps.json
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.runtimeconfig.json
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.dll
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\ref\MusicOrganizer.dll
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.pdb
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.Views.dll
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\bin\Debug\net5.0\MusicOrganizer.Views.pdb
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\staticwebassets\MusicOrganizer.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\staticwebassets\MusicOrganizer.StaticWebAssets.xml
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\scopedcss\bundle\MusicOrganizer.styles.css
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.TagHelpers.input.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.TagHelpers.output.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Records\New.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Records\Show.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.Views.pdb
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.dll
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\ref\MusicOrganizer.dll
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.pdb
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\MusicOrganizer.csproj.CopyComplete
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Artists\Index.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Artists\New.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Artists\Show.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Records\DeleteAll.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\MusicOrganizer.Solution\MusicOrganizer\obj\Debug\net5.0\Razor\Views\Shared\Image.cshtml.g.cs
